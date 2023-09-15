@@ -7,7 +7,7 @@
 ## Minhas Linguagens: 
 
 <div style="display: inline_block"><br/>
-   [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react&theme=light)](https://skillicons.dev)
+   <img align="center" alt="gu-java" height="30" widht="40" src"https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
 </div><br />
 
 Sou apaixonado pelo mundo do desenvolvimento de sistemas e estou sempre em
