@@ -1,15 +1,22 @@
-## Olá, eu sou o Gustavo! 👋🏻💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cssgustavo/   )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssgustavo&hide_progress=true)
+<div>
+  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/cssgustavo/5d05cd046f1e83314761db9185c608a9/raw/de27b20cc837ebf0164a28060da3c0ab71eadf5e/gugitcard.svg" /> 
+</div>
 
-## MY STACKS: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Olá, Eu sou o Gustavo!
+- 💻 Estudante de Sistemas de Informação | FIAP
+
+## Stacks: 
+<div>
+<img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
 
 
 
