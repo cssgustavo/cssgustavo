@@ -20,5 +20,10 @@
 <img height="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
+## Onde me encontrar: 
+<a href="https://www.linkedin.com/in/cssgustavo/" target="_blank">
+<img height="40px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+
 
 
