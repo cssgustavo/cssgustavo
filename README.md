@@ -11,10 +11,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Sou apaixonado pelo mundo do desenvolvimento de sistemas e estou sempre em
-busca de novos desafios e oportunidades para expandir meu conhecimento. Possuo
-habilidades sólidas em uma variedade de tecnologias, incluindo React, AngularJS,
-JavaScript, HTML, CSS, Java, MySQL e Python. Acredito que a tecnologia tem o poder
-de transformar o mundo e estou comprometido em criar soluções inovadoras que
-impactem positivamente a vida das pessoas
+
 
