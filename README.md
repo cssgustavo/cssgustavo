@@ -8,6 +8,8 @@
 
 ## Olá, Eu sou o Gustavo!
 - 💻 Estudante de Sistemas de Informação | FIAP
+- 📌 São Paulo
+- 📱 Full Stack Developer
 
 ## Stacks: 
 <div>
